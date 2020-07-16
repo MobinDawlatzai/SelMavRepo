@@ -13,4 +13,13 @@ public class Base {
 		
 	}
 
+	public static void initializeDriver() {
+		// TODO Auto-generated method stub
+		
+	}
+	public static void initializeDriver1() {
+		// TODO Auto-generated method stub
+		
+	}
+
 }
